@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vishnups.netlify.app/](https://portfolio-vishnups.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.vercel.app/](https://ps-vishnupscodes.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@psvishnu373](https://medium.com/@psvishnu373)
 

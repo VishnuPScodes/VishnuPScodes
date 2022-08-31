@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupscodes&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupscodes" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.vercel.app/](https://ps-vishnupscodes.vercel.app/)
 

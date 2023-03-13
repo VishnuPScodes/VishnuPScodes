@@ -1,29 +1,111 @@
-<h1 align="center">Hi 👋, I'm Vishnu PS</h1>
-<h3 align="center">An aspiring web developer from India</h3>
+<!-- My Readme Profile!
+I spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupscodes&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupscodes" /> </p>
+**Acknowledgements**
+Awesome Readme Templates
+Awesome README
+How to write a Good readme
 
-- 🌱 I’m currently learning **React Native**
+**Authors**
+@HyunCafe
 
-- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.vercel.app/](https://ps-vishnupscodes.vercel.app/)
+**Deployment**
+Creating a README on GitHub is a simple process. Here are the steps:
 
-- 📝 I regularly write articles on [https://medium.com/@psvishnu373](https://medium.com/@psvishnu373)
+Click the "Create new file" button located in a new github repository (your username).
 
-- 💬 Ask me about **react javascript**
+In the "Name your file" field, enter "README.md" (without the quotes).
 
-- 📫 How to reach me **psvishnu131@gmail.com**
+Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AHhppCl7VhVoEVcMqr66ETJPswVL95NI/view?usp=sharing](https://drive.google.com/file/d/1AHhppCl7VhVoEVcMqr66ETJPswVL95NI/view?usp=sharing)
+Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-ps-699596174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-ps-699596174/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@psvishnu373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@psvishnu373" height="30" width="40" /></a>
+Your README will now be visible on the main page of your repository. -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
+
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+
+* 🌳 I’m currently learning Vanilla JavaScript! <br> 
+Actively Going through:
+  - 100 Devs with Leon
+  - The Odin Project: Fundamentals + Full Stack JavaScript
+  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+
+* 🐾 I’m looking to network and make friends here! <br><br>
+
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+
+* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+
+* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupscodes&show_icons=true&locale=en" alt="vishnupscodes" /></p>
+<p align="center"><br>
+  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+  
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupscodes&" alt="vishnupscodes" /></p>
+   <p>
+    <a href="https://www.codewars.com/users/HyunCafe">
+      <img src="https://github.r2v.ch/codewars?user=HyunCafe&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
+    </a>
+  </p>
+
+  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=HyunCafe&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+  <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
+
+[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+<img src="assests/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://dev.to/hyuncafe" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+</a> &nbsp;&nbsp;
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+    <span>HyunSun#7206</span>
+</p> 

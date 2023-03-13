@@ -1,28 +1,6 @@
-<!-- My Readme Profile!
-I spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
 
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
 
-**Authors**
-@HyunCafe
-
-**Deployment**
-Creating a README on GitHub is a simple process. Here are the steps:
-
-Click the "Create new file" button located in a new github repository (your username).
-
-In the "Name your file" field, enter "README.md" (without the quotes).
-
-Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
-
-Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
-
-Your README will now be visible on the main page of your repository. -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Vishnu Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
@@ -31,21 +9,10 @@ Your README will now be visible on the main page of your repository. -->
 
 <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center">Hi 👋 ,Iam Vishnu PS  <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> </h2>
+<h2>An aspiring web developer</h2>
+* 🌳 I’m currently learning React-Native <br> 
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-
-* 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
-
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
-
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
 <h2></h2><br>
 
@@ -54,10 +21,10 @@ Actively Going through:
 </p>
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Learnt so far </strong></h2>
+  <img src="https://skillicons.dev/icons?i=bash,git,react,html,css,js,mongodb,node,typescript,nexts,chakraui" alt="skills learnt"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=php,reactnative,mysql" alt="skills planning to learn logos">
 </div>
 
 <p align="center"><br>

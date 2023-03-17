@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.vercel.app/](https://ps-vishnupscodes.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.netlify.app/](https://ps-vishnupscodes.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@psvishnu373](https://medium.com/@psvishnu373)
 

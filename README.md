@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu PS</h1>
-<h3 align="center">An aspiring web developer from India</h3>
+<h3 align="center"> Full stack developer from India</h3>
 <h1 align="center">Hi there! 👋 I'm Vishnu PS</h1>
 <h3 align="center">Aspiring web developer | Open-source enthusiast | Tech writer</h3>
 

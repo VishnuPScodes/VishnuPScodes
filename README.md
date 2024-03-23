@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu PS</h1>
-<h3 align="center">Full Stack Developer From India with over 1.5 years or work experience </h3>
+<h3 align="center">Full Stack Developer From India with over 1.5 years of work experience </h3>
 <img width="400" align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupscodes&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupscodes" /> </p>

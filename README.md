@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu PS</h1>
+<h1 align="center">Vishnu PS</h1>
 <h3 align="center">Full Stack Developer From India with over 1.5 years of work experience </h3>
 <img width="400" align="right" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.netlify.app/](https://ps-vishnupscodes.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.netlify.app/](https://vishnups.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@psvishnu373](https://medium.com/@psvishnu373)
 

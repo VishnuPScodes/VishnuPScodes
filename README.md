@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://ps-vishnupscodes.netlify.app/](https://vishnups.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://ps-vishnupscodes.netlify.app](https://vishnups.netlify.app)/](https://vishnups.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@psvishnu373](https://medium.com/@psvishnu373)
 

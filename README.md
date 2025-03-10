@@ -1,6 +1,6 @@
 <h1 align="center">Vishnu PS</h1>
 <h3 align="center">Full Stack Developer From India with over 2.5 years of work experience </h3>
-<img width="400" align="right" src="[https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)" />
+<img width="400" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhzdDR1a21ya2Z2YzUxNDY2YmNtYXY0cXk1NTZzd3dsNG4xNXpieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupscodes&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupscodes" /> </p>
 

@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AHhppCl7VhVoEVcMqr66ETJPswVL95NI/view?usp=sharing](https://drive.google.com/file/d/1AHhppCl7VhVoEVcMqr66ETJPswVL95NI/view?usp=sharing)
 
-- ⚡ Fun fact **I can code without tea....😎**
+- ⚡ Fun fact **You will know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
